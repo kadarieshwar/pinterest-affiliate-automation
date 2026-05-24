@@ -1,9 +1,0 @@
-.env
-credentials/*.json
-logs/*.log
-__pycache__/
-*.pyc
-.DS_Store
-*.csv
-temp_*
-venv/
